@@ -1,6 +1,7 @@
 # Guia básico de Git: commit e push
 
 Este guia explica, passo a passo, como salvar suas alterações no Git e enviá-las para um repositório remoto (por exemplo, GitHub).
+Se você ainda não tem os arquivos na sua máquina, veja primeiro como obtê-los em [`docs/como_clonar_projeto.md`](como_clonar_projeto.md).
 
 ## Pré-requisitos
 

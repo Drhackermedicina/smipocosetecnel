@@ -8,6 +8,15 @@ Este repositório contém um protótipo de backend para controle de estoque, cad
 - [SQLAlchemy 2.0](https://docs.sqlalchemy.org/) com SQLite para persistência.
 - Simulação de integração fiscal para autorização de NF-e/NFC-e.
 
+## Como obter o projeto
+
+Antes de seguir para a execução, garanta que os arquivos estejam no seu computador. Você pode:
+
+- fazer o download em formato ZIP diretamente do GitHub;
+- ou clonar o repositório com `git clone` para manter o vínculo com o remoto.
+
+O passo a passo completo está em [`docs/como_clonar_projeto.md`](docs/como_clonar_projeto.md).
+
 ## Como executar
 
 1. Garanta que o [Python 3.10+](https://www.python.org/downloads/) esteja instalado. No Windows, abra o menu Iniciar, digite **Prompt de Comando** e pressione **Enter** para abrir o terminal. No macOS/Linux, abra o **Terminal**.
